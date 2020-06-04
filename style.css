@@ -1,0 +1,47 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 700;
+    margin-top: 100px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+li {
+    margin: 20px 0;
+}
+
+a {
+    margin-right: 10px;
+}
+
+.label {
+    margin-top: -30px;
+    color: #81f4e1;
+}
+
+.open-source {
+    font-size: 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.footer {
+    margin-top: 50px;
+}
+
+.nav {
+    margin-top: 50px;
+}
