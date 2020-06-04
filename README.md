@@ -24,9 +24,9 @@ Why this is important
 
 History brought us to the present. There is nothing to do about the past. But it would be our mistake and our fault to not do something in the present to create a better future without racism!
 
-If you care about this please share it on social media, via email, or just tell your friends and family about it. But please be an #uniteddev
+If you care about this please share it on social media, via email, or just tell your friends and family about it. But please be part of #uniteddevs
 
-For anyone who wants to contribute to the #uniteddev website and movement, we have open-sourced the website so everyone can contribute. 
+For anyone who wants to contribute to the #uniteddevs website and movement, we have open-sourced the website so everyone can contribute. 
 
 If there is anything you have in mind write us an e-Mail to: lara.farwick@outlook.de
 We will answer as soon as possible.
