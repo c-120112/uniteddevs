@@ -3,7 +3,7 @@ A movement to stop racism
 
 The last days made it clear – we need to stand up to stop this pain people face cause of skin color, gender, religion,… 
 
-This manifesto and the #uniteddev movement provide behavioral instructions we as developers give ourselves to stop racism and to stand up for the people who are sadly facing these problems. New goals don’t deliver new results. We need to change our habits to create a different outcome. 
+This manifesto and the #uniteddevs movement provide behavioral instructions we as developers give ourselves to stop racism and to stand up for the people who are sadly facing these problems. New goals don’t deliver new results. We need to change our habits to create a different outcome. 
 
 We are convinced that a united world of developers can make a difference and lead our world to a place where everyone can live without being afraid because of skin color, gender or religion.
 
