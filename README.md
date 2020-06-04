@@ -1,4 +1,4 @@
-# #unideddevs
+# #uniteddevs
 A movement to stop racism
 
 The last days made it clear – we need to stand up to stop this pain people face cause of skin color, gender, religion,… 
