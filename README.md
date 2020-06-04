@@ -26,9 +26,9 @@ History brought us to the present. There is nothing to do about the past. But it
 
 If you care about this please share it on social media, via email, or just tell your friends and family about it. But please be an #uniteddev
 
-For anyone who wants to contribute to the #uniteddev website and movement, we have open-sourced the website so everyone can contribute. The GitHub repository can be found here: 
+For anyone who wants to contribute to the #uniteddev website and movement, we have open-sourced the website so everyone can contribute. 
 
-If there is anything you have in mind write us an e-Mail to: 
+If there is anything you have in mind write us an e-Mail to: lara.farwick@outlook.de
 We will answer as soon as possible.
 
 
