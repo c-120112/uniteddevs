@@ -17,7 +17,7 @@ In our daily life we almost forgot that people are facing problems based on raci
 2.	We will educate ourselves and our children to learn about diversity.
 3.	We will build up knowledge about this topic by reading books to rethink our view on the world and to be educated better.
 4.	When we face a specific situation in our lives where racism is a part of, we help the victim directly.
-5.	We always ask our behavior for example in interview situation to make sure decisions are made on skin color, religion, gender …
+5.	We always ask our behavior for example in interview situation to make sure decisions are NOT made on skin color, religion, gender …
 6.	We stop supporting organizations and institutions promoting hate.
 
 Why this is important
